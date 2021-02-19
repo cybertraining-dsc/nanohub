@@ -166,11 +166,11 @@ enable = false
 	url = "https://laszewski.github.io"
 	icon = "fa fa-envelope"
         desc = "Web site creator"
-#[[params.links.user]]
-#	name ="Twitter"
-#	url = "https://example.org/twitter"
-#	icon = "fab fa-twitter"
-#        desc = "Follow us on Twitter to get the latest news!"
+[[params.links.user]]
+	name ="Twitter"
+	url = "https://twitter.com/nanoHUBnews"
+	icon = "fab fa-twitter"
+        desc = "Follow us on Twitter to get the latest news!"
 #[[params.links.user]]
 #	name = "Stack Overflow"
 #	url = "https://example.org/stack"
