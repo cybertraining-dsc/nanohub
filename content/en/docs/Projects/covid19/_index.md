@@ -45,6 +45,10 @@ the integration of the data to our model as compared to one that only uses case
 and death data. As we use deep learning our models adapt over time while
 learning the model from past data. 
 
+**Project Planing**
+
+* [Tasks](https://github.com/cybertraining-dsc/nanohub/projects/1)
+
 {{% /pageinfo %}}
 
 ## Introduction
