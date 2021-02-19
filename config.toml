@@ -1,5 +1,5 @@
-baseURL = "https://laszewsk.github.io/ieee/"
-title = "Goldydocs"
+baseURL = "https://laszewsk.github.io/nanohub/"
+title = "Nanohub Summer Program"
 
 enableRobotsTXT = true
 
@@ -47,14 +47,14 @@ anchor = "smart"
 [services]
 [services.googleAnalytics]
 # Comment out the next line to disable GA tracking. Also disables the feature described in [params.ui.feedback].
-id = "UA-00000000-0"
+# id = "UA-00000000-0"
 
 # Language configuration
 
 [languages]
 [languages.en]
-title = "Goldydocs"
-description = "A Docsy example site"
+title = "Nanohub Summer Program"
+description = "Nanohub Summer Program GitHub Page provided by Cybertraining-dsc"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
@@ -77,8 +77,8 @@ weight = 1
 section = ["HTML", "print"]
 
 [params]
-copyright = "The Docsy Authors"
-privacy_policy = "https://policies.google.com/privacy"
+#copyright = "The Docsy Authors"
+#privacy_policy = "https://policies.google.com/privacy"
 
 # First one is picked as the Twitter card image if not set on page.
 # images = ["images/project-illustration.png"]
@@ -99,12 +99,12 @@ version = "0.0"
 
 # A link to latest version of the docs. Used in the "version-banner" partial to
 # point people to the main doc site.
-url_latest_version = "https://example.com"
+url_latest_version = "https://github.com/cybertraining-dsc/nanohub"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/google/docsy-example"
+github_repo = "https://github.com/cybertraining-dsc/nanohub"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-github_project_repo = "https://github.com/google/docsy"
+github_project_repo = "https://github.com/cybertraining-dsc/nanohub"
 
 # Specify a value here if your content directory is not in your repo's root directory
 # github_subdir = ""
@@ -156,6 +156,11 @@ enable = false
 
 [params.links]
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
+[[params.links.user]]
+	name = "Tanya"
+	url = "https://laszewski.github.io"
+	icon = "fa fa-envelope"
+        desc = "Summer program coordinator"
 [[params.links.user]]
 	name = "Gregor von Laszewski"
 	url = "https://laszewski.github.io"
