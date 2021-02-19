@@ -3,7 +3,7 @@
 title: "Covid-19 Summer Project"
 linkTitle: "Covid-19"
 author: Gregor von Laszewski
-descrition: > 
+description: > 
   In thie project we predict the spread of COVID-19.
 weight: 30
 ---
