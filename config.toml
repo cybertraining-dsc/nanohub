@@ -157,7 +157,7 @@ enable = false
 [params.links]
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
 [[params.links.user]]
-	name = "TanyaccFaltens"
+	name = "Tanya Faltens"
 	url = "https://nanohub.org/members/164228"
 	icon = "fa fa-envelope"
         desc = "Summer program coordinator"
